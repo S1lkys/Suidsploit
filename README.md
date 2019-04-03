@@ -11,7 +11,7 @@ On successful exploitation you can gain:
 
 ![alt text](https://github.com/S1lkys/Suidsploit/blob/master/Suidsploit.png)
 
-# Why it's obfuscated?
+# Why is it obfuscated?
 
 - Simply because the creators don't want that their program is ripped
 
