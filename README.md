@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Suidsploit is a Tool which can exploit 137 files from GTFO-Bins.
+Suidsploit is a Tool which can exploit 137 files from GTFO-Bins where the Suidbit is set.
 On successful exploitation you can gain:
 
 - Root Shell
@@ -13,7 +13,7 @@ On successful exploitation you can gain:
 
 # Why is it obfuscated?
 
-- Simply because the creators don't want that their program is ripped
+- Simplyfied because the creators don't want that their program is ripped
 
 # Usage:
 Open your favorite Terminal and run these commands.
