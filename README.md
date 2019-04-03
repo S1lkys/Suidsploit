@@ -9,6 +9,8 @@ On successful exploitation you can gain:
 - Output of /etc/shadow
 - Reverse shell
 
+![alt text](http://url/to/img.png)
+
 # Why it's obfuscated?
 
 - Simply because the creators don't want that their program is ripped
