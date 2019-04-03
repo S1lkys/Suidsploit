@@ -9,7 +9,7 @@ On successful exploitation you can gain:
 - Output of /etc/shadow
 - Reverse shell
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/S1lkys/Suidsploit/blob/master/Suidsploit.png)
 
 # Why it's obfuscated?
 
