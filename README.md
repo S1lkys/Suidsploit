@@ -11,9 +11,6 @@ On successful exploitation you can gain:
 
 ![alt text](https://github.com/S1lkys/Suidsploit/blob/master/Suidsploit.png)
 
-# Why is it obfuscated?
-
-- Simplyfied because the creators don't want that their program is ripped
 
 # Usage:
 Open your favorite Terminal and run these commands.
